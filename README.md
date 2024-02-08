@@ -7,5 +7,5 @@ It’s easy to see why Kanban has become an essential project management tool. A
 ![image](https://github.com/SimranSapkota1/simran.github.io/assets/159395426/46ce567a-6d8b-48f5-a93d-16f1e3831037)
 ](image.jpg)
 > In the era of remote work, Kanban has evolved again from physical cards to project management software, such as Kanbanize, Jira, SwiftKanban, Azure DevOps, and Trello.
-![![image](https://github.com/SimranSapkota1/simran.github.io/assets/159395426/2504cf5d-b09b-47ab-9046-122105b165c3)
+![[image](https://github.com/SimranSapkota1/simran.github.io/assets/159395426/4b5c3b25-4881-480a-9fae-183fb9b1335b)
 ](image.jpg)
