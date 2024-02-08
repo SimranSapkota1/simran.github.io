@@ -4,4 +4,4 @@ simran.github.io
 Project managers are routinely tasked with handling uncertainty, to the point that adaptability is a core competency for the profession. Throughout all of this complexity, Kanban has remained a keystone of the management world for more than 60 years, enabling project professionals to maintain a clear, high-level view of processes.
 
 It’s easy to see why Kanban has become an essential project management tool. As a lightweight and adaptable workflow method, it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being hybridized with other frameworks, scaling to an enterprise level, or even serving as the bridge to take organizations from Waterfall to Agile processes.
-![alt text](image.jpg)
+![https://bs-uploads.toptal.io/blackfish-uploads/public-files/Untitled-3b688b6aa694de02b8688974d0f18049.png](image.jpg)
