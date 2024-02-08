@@ -6,3 +6,4 @@ Project managers are routinely tasked with handling uncertainty, to the point th
 It’s easy to see why Kanban has become an essential project management tool. As a lightweight and adaptable workflow method, it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being hybridized with other frameworks, scaling to an enterprise level, or even serving as the bridge to take organizations from Waterfall to Agile processes.
 ![image](https://github.com/SimranSapkota1/simran.github.io/assets/159395426/46ce567a-6d8b-48f5-a93d-16f1e3831037)
 ](image.jpg)
+> In the era of remote work, Kanban has evolved again from physical cards to project management software, such as Kanbanize, Jira, SwiftKanban, Azure DevOps, and Trello.
